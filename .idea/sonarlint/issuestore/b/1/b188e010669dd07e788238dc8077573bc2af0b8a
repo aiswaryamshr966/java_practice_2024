@@ -1,0 +1,76 @@
+
+M
+java:S1854 "7Remove this useless assignment to local variable "x26".(î½Ã–
+L
+java:S1854"7Remove this useless assignment to local variable "x25".(ú«„*
+6
+java:S1659" Declare "x6" on a separate line.(Æ¬Ïá
+<
+java:S1659"!Declare "x10" on a separate line.(Ì˜Úùùÿÿÿÿ
+<
+java:S1659"!Declare "x17" on a separate line.(ÍáÔ‡üÿÿÿÿ
+<
+java:S1659"!Declare "x19" on a separate line.(»Ô‹‰ùÿÿÿÿ
+7
+java:S1659"!Declare "x21" on a separate line.(¡¾Ù
+7
+java:S1659"!Declare "x23" on a separate line.(Ó™ËŽ
+B
+java:S1481"'Remove this unused "x1" local variable.(©ü”Ëþÿÿÿÿ
+B
+java:S1481"'Remove this unused "x2" local variable.(æèùÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(ôðâ
+=
+java:S1481"'Remove this unused "x3" local variable.(ôðâ
+@
+java:S1197"*Move the array designators [] to the type.(Æ¬Ïá
+=
+java:S1481"'Remove this unused "x5" local variable.(Æ¬Ïá
+@
+java:S1197"*Move the array designators [] to the type.(Æ¬Ïá
+=
+java:S1481"'Remove this unused "x6" local variable.(Æ¬Ïá
+B
+java:S1481"'Remove this unused "x9" local variable.(Ì˜Úùùÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(Ì˜Úùùÿÿÿÿ
+C
+java:S1481"(Remove this unused "x10" local variable.(Ì˜Úùùÿÿÿÿ
+>
+java:S1481"(Remove this unused "x11" local variable.(¯¼Åä
+>
+java:S1481"(Remove this unused "x12" local variable.(îÕŠ
+=
+java:S1481"(Remove this unused "x13" local variable.(¨Ãµ#
+?
+java:S1197"*Move the array designators [] to the type.(Ôõî
+=
+java:S1481"(Remove this unused "x14" local variable.(Ôõî
+G
+java:S1197",Move the array designators [][] to the type.(ƒ½œÞýÿÿÿÿ
+C
+java:S1481"(Remove this unused "x15" local variable.(ƒ½œÞýÿÿÿÿ
+C
+java:S1481"(Remove this unused "x16" local variable.(ÍáÔ‡üÿÿÿÿ
+C
+java:S1481"(Remove this unused "x17" local variable.(ÍáÔ‡üÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(»Ô‹‰ùÿÿÿÿ
+C
+java:S1481"(Remove this unused "x18" local variable.(»Ô‹‰ùÿÿÿÿ
+C
+java:S1481"(Remove this unused "x19" local variable.(»Ô‹‰ùÿÿÿÿ
+>
+java:S1481"(Remove this unused "x20" local variable.(¡¾Ù
+>
+java:S1481"(Remove this unused "x21" local variable.(¡¾Ù
+>
+java:S1481"(Remove this unused "x22" local variable.(Ó™ËŽ
+>
+java:S1481"(Remove this unused "x23" local variable.(Ó™ËŽ
+=
+java:S1481"(Remove this unused "x25" local variable.(ú«„*
+>
+java:S1481 "(Remove this unused "x26" local variable.(î½Ã–
+Q	java:S125!"<This block of commented-out lines of code should be removed.(ªüÍ³

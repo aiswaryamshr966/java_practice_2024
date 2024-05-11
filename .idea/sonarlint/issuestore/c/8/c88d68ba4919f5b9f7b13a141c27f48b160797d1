@@ -1,0 +1,14 @@
+
+w
+java:S1066,"/Merge this if statement with the enclosing one.(¤÷«¤ûÿÿÿÿ8Ç¢ñ¿ô1J$27d85b68-8142-4c6a-ba76-69566be7ba08
+“	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó½…å8È¢ñ¿ô1J$95851d9d-2cb4-491e-9fe0-8bfef7244dbd
+}
+java:S1854"5Remove this useless assignment to local variable "e".(¹ŒÒ´üÿÿÿÿ8Ø¢ñ¿ô1J$fa72cbeb-3d0e-4d94-a24b-a7e6f6c3cb53
+n
+java:S1481"&Remove this unused "e" local variable.(¹ŒÒ´üÿÿÿÿ8Ù¢ñ¿ô1J$2002eee3-4e70-40d0-8944-46c8b39a8dbd
+l	java:S106"+Replace this use of System.out by a logger.(…°Þ8Ü¢ñ¿ô1J$bb5ddb69-e0e7-406c-bfa1-b4b08f7eb8c4
+r	java:S106"+Replace this use of System.out by a logger.(šß°Àýÿÿÿÿ8Ü¢ñ¿ô1J$6fb9d6ea-f530-4f31-aa52-fdde5f4b02b6
+m
+java:S1197'"*Move the array designators [] to the type.(ÈÃßó8Þ¢ñ¿ô1J$d3f1f4b1-4f73-4729-a793-7a5bb22bd5cf
+r
+java:S1197("*Move the array designators [] to the type.(ñ‹Èªøÿÿÿÿ8Þ¢ñ¿ô1J$26277c7a-9be5-41f5-818b-4f0daf39ae93

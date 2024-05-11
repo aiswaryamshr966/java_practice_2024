@@ -1,0 +1,20 @@
+
+}
+java:S1854"5Remove this useless assignment to local variable "e".(¹ŒÒ´üÿÿÿÿ8š†¥ô1J$e1570e4e-885e-44a7-87c5-de3c495467d2
+n
+java:S1481"&Remove this unused "e" local variable.(¹ŒÒ´üÿÿÿÿ8†¥ô1J$f293ec9d-5103-4ed6-9dd8-c9c37623efbf
+r
+java:S1197"*Move the array designators [] to the type.(æïö·şÿÿÿÿ8†¥ô1J$49006217-5729-4a9c-b707-6c531c77f0b5
+m
+java:S1197"*Move the array designators [] to the type.(ôí·Õ8†¥ô1J$59732dca-5f0a-4d6c-bd51-ee25f4860467
+m	java:S106 "+Replace this use of System.out by a logger.(êº»¥8 †¥ô1J$35c0f7ba-8d92-4f91-9aa4-c149b2c7a586
+r	java:S106#"+Replace this use of System.out by a logger.(¨É¥øÿÿÿÿ8 †¥ô1J$c0390657-2789-46fa-a8d4-52640e7bb52a
+r	java:S106&"+Replace this use of System.out by a logger.(ìÑÑÈÿÿÿÿÿ8 †¥ô1J$ee785257-2540-4e68-8c51-5cc743155f35
+r
+java:S1197."*Move the array designators [] to the type.(¢Û„­ıÿÿÿÿ8¢†¥ô1J$efc82e14-175b-4490-89b1-488c60da8235
+r
+java:S1197."*Move the array designators [] to the type.(¢Û„­ıÿÿÿÿ8¢†¥ô1J$cf21253b-51f8-45c2-9ea1-c95d3d53827e
+m
+java:S11970"*Move the array designators [] to the type.(«§ò8¢†¥ô1J$58623a80-dbb2-450b-b8f7-ed1505759782
+j
+java:S1125?"'Remove the unnecessary boolean literal.(éßÊº8¤†¥ô1J$0b1240b7-ff12-4039-aa2b-c8ec803af81d

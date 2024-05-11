@@ -1,0 +1,20 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "y".(¬š™¬ýÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "x".(ËøŒÄ
+<
+java:S1481"&Remove this unused "x" local variable.(ËøŒÄ
+A
+java:S1481"&Remove this unused "y" local variable.(¬š™¬ýÿÿÿÿ
+6
+java:S2129" Remove this "String" constructor(ý³¤‹
+<
+java:S2129"!Remove this "Integer" constructor(•Þ¢øøÿÿÿÿ
+c
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(•Þ¢øøÿÿÿÿ
+^
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(Ý±¢¯
+P
+java:S2438":Replace this Thread instance with an instance of Runnable.(•Ý…‹
+E	java:S106"+Replace this use of System.out by a logger.(„Õ¯ƒøÿÿÿÿ

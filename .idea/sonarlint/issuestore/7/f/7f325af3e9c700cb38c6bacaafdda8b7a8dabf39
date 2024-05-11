@@ -1,0 +1,5 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(¸¸›Ì8´š”¥Õ1
+L	java:S106"+Replace this use of System.out by a logger.(ÆýÎíþÿÿÿÿ8´š”¥Õ1
+—
+java:S6204:"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8¹š”¥Õ1

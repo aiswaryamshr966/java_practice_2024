@@ -1,0 +1,8 @@
+
+v
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "duplicate".(õƒ¥y
+e
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(õƒ¥y
+Q	java:S125"<This block of commented-out lines of code should be removed.(‹µ„å
+E	java:S106"+Replace this use of System.out by a logger.(°úùûûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(²ÂŒ­

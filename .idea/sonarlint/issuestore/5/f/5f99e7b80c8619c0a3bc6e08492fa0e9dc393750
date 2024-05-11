@@ -1,0 +1,12 @@
+
+h
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(ÑÑªà
+@	java:S106	"+Replace this use of System.out by a logger.(¤Ş•Å
+E	java:S106"+Replace this use of System.out by a logger.(íö°«şÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ûü¬ÿÿÿÿÿ
+Z
+java:S1612"?Replace this lambda with method reference 'String::startsWith'.(çõˆşüÿÿÿÿ
+S
+java:S1612"=Replace this lambda with method reference 'String::endsWith'.(‘Õ†
+E	java:S106"+Replace this use of System.out by a logger.(ïšìïşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(—¨ ıÿÿÿÿ

@@ -1,0 +1,20 @@
+
+r	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¤Ôáÿÿÿÿÿ8ë÷‹ƒÍ1
+r	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¤Ôáÿÿÿÿÿ8ë÷‹ƒÍ1
+o
+java:S1104"MMake N a static final constant or non-public and provide accessors if needed.(İÁ™Éúÿÿÿÿ8ë÷‹ƒÍ1
+I
+java:S1444"'Make this "public static N" field final(İÁ™Éúÿÿÿÿ8ë÷‹ƒÍ1
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÁ™Éúÿÿÿÿ8ü÷‹ƒÍ1
+I
+java:S1197",Move the array designators [][] to the type.(†§Šˆ8Œø‹ƒÍ1
+G
+java:S1197"*Move the array designators [] to the type.(ù§ÈÖ8ø‹ƒÍ1
+G
+java:S1197"*Move the array designators [] to the type.(Ê’š8ø‹ƒÍ1
+L	java:S106$"+Replace this use of System.out by a logger.(¸®½¾üÿÿÿÿ8ø‹ƒÍ1
+L	java:S106."+Replace this use of System.out by a logger.(–‘ô©üÿÿÿÿ8ø‹ƒÍ1
+L	java:S1060"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ø‹ƒÍ1
+e
+java:S16596"CDeclare "next_x" and all following declarations on a separate line.(Ô¤Ôáÿÿÿÿÿ8ñ‡–ƒÍ1

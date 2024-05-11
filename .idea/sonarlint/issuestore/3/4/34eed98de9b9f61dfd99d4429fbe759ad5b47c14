@@ -1,0 +1,35 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(šß¯Ÿùÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(šß¯Ÿùÿÿÿÿ
+J
+java:S3740	"/Provide the parametrized type for this generic.(Ðí”Ãÿÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(€¿ëý
+E
+java:S3740"/Provide the parametrized type for this generic.(€¿ëý
+t
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ê§òúÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ß¢
+V
+java:S1854&";Remove this useless assignment to local variable "strList".(­ê§òúÿÿÿÿ
+R
+java:S1854	"7Remove this useless assignment to local variable "al1".(Ðí”Ãÿÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "al".(šß¯Ÿùÿÿÿÿ
+B
+java:S1481"'Remove this unused "al" local variable.(šß¯Ÿùÿÿÿÿ
+C
+java:S1481	"(Remove this unused "al1" local variable.(Ðí”Ãÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(µ‡·õ
+@	java:S106"+Replace this use of System.out by a logger.(¥»Š¸
+@	java:S106"+Replace this use of System.out by a logger.(¥»Š¸
+7
+java:S2129 "!Remove this "Integer" constructor(áÎûç
+^
+java:S5738 "HRemove this call to a deprecated method, it has been marked for removal.(áÎûç
+@	java:S106""+Replace this use of System.out by a logger.(¥»Š¸
+E	java:S106$"+Replace this use of System.out by a logger.(…¡”Çùÿÿÿÿ
+G
+java:S1481&",Remove this unused "strList" local variable.(­ê§òúÿÿÿÿ

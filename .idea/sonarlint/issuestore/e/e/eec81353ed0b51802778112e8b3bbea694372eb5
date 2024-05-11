@@ -1,0 +1,7 @@
+
+i
+java:S2259"GA "NullPointerException" could be thrown; "resultant" is nullable here.(¾Êëãüÿÿÿÿ8àü äÇ1
+L	java:S106"+Replace this use of System.out by a logger.(×¸µëÿÿÿÿÿ8äü äÇ1
+L	java:S106"+Replace this use of System.out by a logger.(¾Êëãüÿÿÿÿ8åü äÇ1
+H
+java:S1168/"&Return an empty array instead of null.(ÕØ˜ùûÿÿÿÿ8çü äÇ1

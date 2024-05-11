@@ -1,0 +1,21 @@
+
+u
+java:S4165"_Remove this useless assignment; "c" already holds the assigned value along all execution paths.(Ğ¿”°
+P
+java:S1854"5Remove this useless assignment to local variable "b".(ÊæÁ­ıÿÿÿÿ
+P
+java:S1854&":Remove this useless assignment to local variable "shorts".(§ã…¤
+P
+java:S1854$"5Remove this useless assignment to local variable "o".(“¢òşùÿÿÿÿ
+@	java:S106
+"+Replace this use of System.out by a logger.(ƒ¶û­
+E	java:S106"+Replace this use of System.out by a logger.(»Äÿ«ùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ûÙµÛşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ôÌüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¶´›§şÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ
+A
+java:S1481$"&Remove this unused "o" local variable.(“¢òşùÿÿÿÿ
+A
+java:S1481&"+Remove this unused "shorts" local variable.(§ã…¤

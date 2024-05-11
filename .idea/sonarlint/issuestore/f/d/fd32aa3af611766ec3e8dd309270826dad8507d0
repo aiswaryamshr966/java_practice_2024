@@ -1,0 +1,20 @@
+
+{
+java:S1854"8Remove this useless assignment to local variable "dist".(ôí·Õ8Ç ¹§ô1J$b5b082e2-89ee-4b45-9c36-a46035109c75
+€
+java:S1854"8Remove this useless assignment to local variable "pred".(æïö·şÿÿÿÿ8Ç ¹§ô1J$c66ffd22-103f-4857-b991-e627abfc3d71
+}
+java:S1854"5Remove this useless assignment to local variable "e".(¹ŒÒ´üÿÿÿÿ8Ç ¹§ô1J$9e79b6ec-671f-4baa-a840-2e10a3da9d9e
+n
+java:S1481"&Remove this unused "e" local variable.(¹ŒÒ´üÿÿÿÿ8É ¹§ô1J$b079279b-90da-42ac-8dec-3bc774c09d0c
+r
+java:S1197"*Move the array designators [] to the type.(æïö·şÿÿÿÿ8É ¹§ô1J$7fe0617b-1c58-4bcd-b664-a2fe67e162a5
+q
+java:S1481")Remove this unused "pred" local variable.(æïö·şÿÿÿÿ8É ¹§ô1J$ec7384cb-f3c6-4ac4-9ffe-f4366e2412ce
+m
+java:S1197"*Move the array designators [] to the type.(ôí·Õ8É ¹§ô1J$2b309c9c-4c2e-4966-b0fb-24f36bceda1b
+l
+java:S1481")Remove this unused "dist" local variable.(ôí·Õ8É ¹§ô1J$943430dc-1544-4944-a697-bb442c368556
+r	java:S106"+Replace this use of System.out by a logger.(§ß°îıÿÿÿÿ8Ë ¹§ô1J$c8f6950d-6ca6-498f-aeb1-b8de109f60c5
+m
+java:S1197&"*Move the array designators [] to the type.(€—›8™ïÅ§ô1J$8ef7dfca-f1fc-42c8-b85e-78571ccf3bb5

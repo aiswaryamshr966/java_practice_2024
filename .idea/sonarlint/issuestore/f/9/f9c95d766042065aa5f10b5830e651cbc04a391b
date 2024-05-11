@@ -1,0 +1,17 @@
+
+l	java:S106"+Replace this use of System.out by a logger.(•ž…8ºê—”ö1J$9ffcdfac-f1a0-4c76-a5be-581b3c5ac2d2
+†
+java:S2276	"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¯ú™ú8½ê—”ö1J$697f8448-71f3-4fa7-9831-870592151322
+r	java:S106"+Replace this use of System.out by a logger.(Æ†¬Çþÿÿÿÿ8¿ê—”ö1J$45232af4-be2e-4519-ba8b-46f5a8a22250
+x
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8Àê—”ö1J$b6aa9007-8325-4524-afff-95242e6eaedb
+r	java:S106"+Replace this use of System.out by a logger.(‡üœ±üÿÿÿÿ8Áê—”ö1J$2e2f2316-698c-446c-b525-4036ef93683b
+|
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8Âê—”ö1J$c4eadc89-340e-4f5b-a6db-51ec761f28f5
+r	java:S106"+Replace this use of System.out by a logger.(ÿƒÊâúÿÿÿÿ8Âê—”ö1J$694f7a57-2311-438e-9486-ba9b68c9a5c7
+¡
+java:S2142%"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Éê—”ö1J$dca56ebc-2d98-42f1-bd8c-fc8790208fb3
+¡
+java:S2142-"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ìê—”ö1J$0141cf32-d513-48fb-b84f-63eae81535bd
+¡
+java:S21429"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Îê—”ö1J$7cb2c390-8401-4421-bb88-c9f278bf02fd

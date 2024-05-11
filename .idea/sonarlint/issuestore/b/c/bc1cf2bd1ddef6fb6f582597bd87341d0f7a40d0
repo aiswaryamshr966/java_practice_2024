@@ -1,0 +1,6 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(Ó¬àÔÿÿÿÿÿ8õËÈ·õ1J$844c6d3e-2b33-425c-add0-d62559db0984
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ùËÈ·õ1J$5e243c95-7254-46f2-8e22-8a2d3a740124
+¡
+java:S2142%"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8úËÈ·õ1J$f7ed92a3-c99a-4b53-9c36-16b6e28df411

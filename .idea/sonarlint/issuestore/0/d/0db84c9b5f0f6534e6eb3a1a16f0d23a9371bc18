@@ -1,0 +1,15 @@
+
+˜
+java:S3655 "PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(÷“¿¤ûÿÿÿÿ8™å¾Èñ1J$c5e848ee-913b-4e5f-99f4-7d3ec980001b
+“
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÿÔÆŒ8˜å¾Èñ1J$c93f33c0-5a9c-4f58-a444-f661f594168a
+m	java:S106"+Replace this use of System.out by a logger.(Òàİ¸8ª¥«Èñ1J$8aaf134e-bff5-45b2-a194-775ff924018b
+m	java:S106"+Replace this use of System.out by a logger.(¬ÛêÇ8ª¥«Èñ1J$3109d926-6885-44f3-9700-c91b17894291
+w
+java:S3631 "/Use "Arrays.stream" instead of "Arrays.asList".(÷“¿¤ûÿÿÿÿ8­¥«Èñ1J$4765312b-d2f4-46c2-947f-b69a4b8477c8
+r	java:S106&"+Replace this use of System.out by a logger.(¯•È üÿÿÿÿ8­¥«Èñ1J$16be9b2e-cb84-4ed2-af70-af1c19c73578
+½
+java:S62044"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8©å¾Èñ1J$5d43ce7a-e87d-4967-ab0f-d1e0d5780af9
+†
+java:S16126">Replace this lambda with method reference 'System.out::print'.(¥’ŠÊûÿÿÿÿ8ÁàÁÈñ1J$f2d824c2-2371-429e-9ca5-a37fc27b393e
+r	java:S1066"+Replace this use of System.out by a logger.(¥’ŠÊûÿÿÿÿ8ÁàÁÈñ1J$d2e8cebe-ab2a-4073-81e2-889278e09518

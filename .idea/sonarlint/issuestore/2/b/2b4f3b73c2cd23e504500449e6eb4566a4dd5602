@@ -1,0 +1,19 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "y".(€ÌÊéşÿÿÿÿ
+<
+java:S1481"&Remove this unused "x" local variable.(Äú¶å
+A
+java:S1481"&Remove this unused "y" local variable.(€ÌÊéşÿÿÿÿ
+@	java:S106	"+Replace this use of System.out by a logger.(à×¾ğ
+E	java:S106
+"+Replace this use of System.out by a logger.(ïæ¶÷ÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(şóŸŸúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(·¾ãš
+A
+java:S1481"&Remove this unused "a" local variable.(Şœíüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Òªü’ÿÿÿÿÿ
+@	java:S106 "+Replace this use of System.out by a logger.(˜£ü¹
+E	java:S106%"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ
+E	java:S106-"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ

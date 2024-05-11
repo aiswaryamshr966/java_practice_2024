@@ -1,0 +1,18 @@
+
+f
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ºıõ
+c
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(è§Ío
+e
+java:S2095+"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ôà¤Ò
+c
+java:S2095*"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÖŞÎ
+@	java:S106"+Replace this use of System.out by a logger.(Õ§È‹
+E	java:S106 "+Replace this use of System.out by a logger.(—êíòúÿÿÿÿ
+@	java:S1063"+Replace this use of System.out by a logger.(Ç»“Ø
+?	java:S1064"+Replace this use of System.out by a logger.(ü²º
+@	java:S1065"+Replace this use of System.out by a logger.(¹¶æå
+E	java:S106:"+Replace this use of System.out by a logger.(—êíòúÿÿÿÿ
+E	java:S106?"+Replace this use of System.out by a logger.(è”ã–ùÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(”®ä¨

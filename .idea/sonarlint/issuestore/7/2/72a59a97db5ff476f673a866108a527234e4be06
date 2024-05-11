@@ -1,0 +1,80 @@
+
+k
+java:S3740,"/Provide the parametrized type for this generic.(©ú˜åJ$c856f012-d2a8-4864-8477-e18c35d1673f
+k
+java:S3740,"/Provide the parametrized type for this generic.(©ú˜åJ$7620e30f-4dc3-4756-91c2-bc152355b95d
+k
+java:S37403"/Provide the parametrized type for this generic.(ĞÊ÷ÚJ$e15313be-0ec2-46c8-9e5c-1314436d4042
+k
+java:S37403"/Provide the parametrized type for this generic.(ĞÊ÷ÚJ$fdeb2b51-d96a-4172-8c1a-101466adf1c6
+k
+java:S3740:"/Provide the parametrized type for this generic.(…õçJ$dac944b7-6c1a-4289-8eb6-4ad21f522682
+k
+java:S3740:"/Provide the parametrized type for this generic.(…õçJ$087a58ba-17bc-4599-9de5-c94811328a1a
+k
+java:S3740A"/Provide the parametrized type for this generic.( ‰J$83b44907-2386-480d-a5b9-09d0e786d9fb
+k
+java:S3740A"/Provide the parametrized type for this generic.( ‰J$98cf9685-f1f3-4697-bf44-d68869e8af4b
+d
+java:S1604,"(Make this anonymous inner class a lambda(©ú˜åJ$0f8e6963-c7d9-41d9-bfe5-867edef6b0a9
+d
+java:S16043"(Make this anonymous inner class a lambda(ĞÊ÷ÚJ$4d39763e-7079-449b-936d-a55cc65aab8e
+d
+java:S1604:"(Make this anonymous inner class a lambda(…õçJ$9a758301-4b74-4fda-822c-f5549647e4e0
+}
+java:S4973"<Strings and Boxed types should be compared using "equals()".(«ç¤ÂÿÿÿÿÿJ$679cd48f-ab00-44d4-b146-8192ed7877e3
+}
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÑŠë­ıÿÿÿÿJ$cd991088-5c4e-4605-ad00-1dccd6f2cf74
+‚
+java:S2637ì"EThis method's return value is marked "@NotNull" but null is returned.(¥¹ïJ$800edfe1-f2e1-457b-bd63-8dd5faa0275a
+‚
+java:S2637ƒ"EThis method's return value is marked "@NotNull" but null is returned.(¥¹ïJ$bfce3fe9-8438-4e01-9136-b50a0e25d331
+‚
+java:S2637‰"EThis method's return value is marked "@NotNull" but null is returned.(¥¹ïJ$9d625bac-ddba-4f15-a56e-fd9e204a8b29
+‚
+java:S2637ı"EThis method's return value is marked "@NotNull" but null is returned.(¥¹ïJ$c553aaca-133a-497c-b48b-8cea422d2eb8
+‚
+java:S2637"EThis method's return value is marked "@NotNull" but null is returned.(¥¹ïJ$93b6ab65-7b77-478d-898f-2aef4cbaab38
+‚
+java:S2637ò"EThis method's return value is marked "@NotNull" but null is returned.(¥¹ïJ$9e3b66aa-6c9b-4de3-8693-1920feaa7a5c
+|	java:S125	"<This block of commented-out lines of code should be removed.(Ïİ…ıÿÿÿÿJ$3a994f62-f582-429a-b0fd-58cbd5f7ba82
+v
+java:S1854A":Remove this useless assignment to local variable "stream".( ‰J$4d827a6b-1cc0-45a3-af7a-9849e26407b4
+y
+java:S1854:"=Remove this useless assignment to local variable "predicate".(…õçJ$e271dfd7-bf6d-465d-8741-dd4659164d8d
+x
+java:S18543"<Remove this useless assignment to local variable "function".(ĞÊ÷ÚJ$0af2100e-21b4-43e0-90ca-ce696856f7c4
+x
+java:S1854,"<Remove this useless assignment to local variable "consumer".(©ú˜åJ$edf670b7-f152-4ee6-a668-38cae6fca3a7
+|	java:S125"<This block of commented-out lines of code should be removed.(ƒÜ§üÿÿÿÿJ$f3cd894c-e95c-461f-aeae-dd2cd4ad8398
+\
+java:S2129" Remove this "String" constructor(¢ş˜J$c6b51581-d198-4394-a9e7-9919dcd1bf7e
+k	java:S106"+Replace this use of System.out by a logger.(«ç¤ÂÿÿÿÿÿJ$02e9c504-1bff-4867-b9a0-0e2e7711c74a
+|	java:S125"<This block of commented-out lines of code should be removed.(ÙèõåøÿÿÿÿJ$2d446a2f-a3e3-481f-b472-c903a6de4001
+k	java:S106"+Replace this use of System.out by a logger.(ŸÖ³úùÿÿÿÿJ$bbb631e7-98d0-4cc5-841a-f09b0a6026cc
+k	java:S106"+Replace this use of System.out by a logger.(¶ÏîûÿÿÿÿJ$a4721dff-7e34-4e5a-ae11-d9374293087b
+k	java:S106"+Replace this use of System.out by a logger.(ÑŠë­ıÿÿÿÿJ$aa3f27f6-1149-45e8-86b0-4db82c1c6360
+k	java:S106!"+Replace this use of System.out by a logger.(Û•ËõúÿÿÿÿJ$1cd763d1-6cba-48f2-886e-ede1072691be
+k	java:S106#"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿJ$7809454e-d86f-4b4b-827d-44bb136c261e
+f
+java:S2201&"*The return value of "concat" must be used.(ßµ¬¤J$4042d741-c967-4871-a7ac-afcfe6d2740f
+k	java:S106'"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿJ$64869fe8-5455-4704-978e-05398c81bc0a
+k
+java:S2201("/The return value of "toUpperCase" must be used.(íªÍ›J$10130539-96d8-4c49-92f4-2e4b737f611c
+l
+java:S2201)"+The return value of "replace" must be used.(÷Â±ãùÿÿÿÿJ$1f5f4576-2808-456f-be0e-75793940680c
+k	java:S106*"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿJ$c6d8b833-cc5b-4d04-b888-981d56b7d3f6
+i
+java:S1481,"-Remove this unused "consumer" local variable.(©ú˜åJ$936efe44-583f-4359-811c-d5365c7b8799
+i
+java:S14813"-Remove this unused "function" local variable.(ĞÊ÷ÚJ$2370ceac-10c4-493e-b6a3-c3b5d2cdd39d
+j
+java:S1481:".Remove this unused "predicate" local variable.(…õçJ$bb5935d8-8964-410e-9378-6ba5ca5a1eb0
+Ã
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïı‹úÿÿÿÿJ$65e527ca-8577-4dbb-87f8-628bf183d0b0
+½
+java:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼³‘{J$e0235922-05d1-42ad-b96e-c3ca09264201
+Ã
+java:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—µ±şıÿÿÿÿJ$d3e815e3-8b00-4aa0-97fb-c14667ae2bcc
+g
+java:S1481A"+Remove this unused "stream" local variable.( ‰J$4d423065-734b-4082-bdc5-53d52eb31cc2

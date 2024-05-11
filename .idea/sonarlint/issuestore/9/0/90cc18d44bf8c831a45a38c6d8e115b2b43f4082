@@ -1,0 +1,12 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "single".(¯¥ÆÔ
+@	java:S106
+"+Replace this use of System.out by a logger.(£¤˜¨
+A
+java:S1481"+Remove this unused "single" local variable.(¯¥ÆÔ
+E	java:S106"+Replace this use of System.out by a logger.(ÂŒ£Ïıÿÿÿÿ
+@
+java:S10682"*Remove this unused "field1" private field.(¬Á¦ÿ
+>
+java:S10683"(Remove this unused "list" private field.(èÔœ§

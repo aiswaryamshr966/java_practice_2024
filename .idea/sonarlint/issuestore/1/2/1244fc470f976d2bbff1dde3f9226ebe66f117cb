@@ -1,0 +1,26 @@
+
+–
+java:S1192	"NDefine a constant instead of duplicating this literal " is executing" 4 times.(µÃ¢„ùÿÿÿÿ8¹¯Æ‰ö1J$9c0caf37-dac4-411e-b8ca-8d8baa702484
+‹
+java:S3014"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(åÏ²f8¼¯Æ‰ö1J$1b6d8da4-32a2-41ff-b854-a099f8a87619
+}
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8ÕÈ‰ö1J$d09b5ca9-454f-4674-a000-7b1fb69e77db
+r	java:S106	"+Replace this use of System.out by a logger.(µÃ¢„ùÿÿÿÿ8Ë¯Æ‰ö1J$26ef58de-d0c2-4633-b8f4-bdcf310e4af4
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ì¯Æ‰ö1J$c4e362cd-b6de-4ed5-8987-c53c9ae519c8
+r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8Í¯Æ‰ö1J$e5137450-0520-43ba-aefe-8cad9f769810
+r	java:S106"+Replace this use of System.out by a logger.(µÃ¢„ùÿÿÿÿ8Í¯Æ‰ö1J$e91ce33c-4a0e-48bb-bc6f-15c9e91304e5
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Î¯Æ‰ö1J$c7f67a31-3470-4a06-886a-b48f618b3adf
+r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8Î¯Æ‰ö1J$664d9878-2037-42f9-8ac2-59e74a312433
+r	java:S106""+Replace this use of System.out by a logger.(µÃ¢„ùÿÿÿÿ8Ï¯Æ‰ö1J$8e31324d-68a8-4d63-949c-5f66c5962f1c
+¡
+java:S2142%"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ï¯Æ‰ö1J$8ed2df64-cfd0-43cd-b211-415fc0551994
+r	java:S106&"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8Ï¯Æ‰ö1J$b4bb5d21-fa5f-4044-b66c-9e45e1cde98a
+r	java:S106+"+Replace this use of System.out by a logger.(µÃ¢„ùÿÿÿÿ8Ñ¯Æ‰ö1J$365c6ab3-49a8-45ee-8227-2bef39bde69d
+¡
+java:S2142."^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ğ¯Æ‰ö1J$4f99e58b-9395-4f93-acc6-ccf39f42009e
+r	java:S106/"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8áÈ‰ö1J$a5e81a9d-d7d9-4dce-b34e-e629d23f9074
+¡
+java:S2142?"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8áÈ‰ö1J$25641d89-adef-451b-a725-42a2b9f006c1
+r	java:S106@"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8âÈ‰ö1J$7bc5dab7-f8f9-451e-9ff2-d72cec6ae981

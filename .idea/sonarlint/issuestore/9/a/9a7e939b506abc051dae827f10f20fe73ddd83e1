@@ -1,0 +1,12 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‹Œ×øÿÿÿÿ8ö§Ò1
+N
+java:S1197",Move the array designators [][] to the type.(ı³¾¿ûÿÿÿÿ8„‚§Ò1
+G	java:S106"+Replace this use of System.out by a logger.(ËïÀÂ8…‚§Ò1
+G	java:S106"+Replace this use of System.out by a logger.(äÏ‘Ã8…‚§Ò1
+L	java:S106"+Replace this use of System.out by a logger.(ìè­„øÿÿÿÿ8…‚§Ò1
+G	java:S106"+Replace this use of System.out by a logger.(äÏ‘Ã8†‚§Ò1
+^
+java:S1126+"AReplace this if-then-else statement by a single return statement.(ğ®å‡8ˆ‚§Ò1
+C
+java:S1168:"&Return an empty array instead of null.(ú‡û8Š‚§Ò1

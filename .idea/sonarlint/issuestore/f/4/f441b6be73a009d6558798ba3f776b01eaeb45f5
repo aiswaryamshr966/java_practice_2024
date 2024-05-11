@@ -1,0 +1,10 @@
+
+“
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¨ÙÌè8ÚŸ¥óñ1J$dabdd54a-4af1-42e3-9c07-3e67b85d98a9
+~
+java:S1854";Remove this useless assignment to local variable "newList".(¿ŸŽî8àŸ¥óñ1J$095e8d00-553a-4246-bbad-648cab514a02
+l
+java:S1940")Use the opposite operator ("<=") instead.(Ú«Å”8åŸ¥óñ1J$74bd655e-d656-491e-9303-ffbad41e6bf0
+r	java:S106"+Replace this use of System.out by a logger.(Ù¼€®üÿÿÿÿ8çŸ¥óñ1J$a37f6cfe-f0ac-47d1-bce7-793d6a611ac0
+o
+java:S1481",Remove this unused "newList" local variable.(¿ŸŽî8êŸ¥óñ1J$c250994a-567c-4b67-9ae6-f84b579edc59

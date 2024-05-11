@@ -1,0 +1,18 @@
+
+j
+java:S1604"(Make this anonymous inner class a lambda(ô§ê8Ü–²âô1J$1d4fee26-1d10-4e10-8aee-c21933fdc809
+~	java:S125"<This block of commented-out lines of code should be removed.(—Ñê8‰×²âô1J$fc2a7c95-001c-4f60-b14d-11a4bc304908
+~	java:S125"<This block of commented-out lines of code should be removed.(œ…¸8–Æ¹âô1J$76c81156-6ed5-4cea-978b-0844f74dbe37
+m	java:S106"+Replace this use of System.out by a logger.(Æ‚¡Ä8ë–²âô1J$5e718ffc-e3e4-407e-8e60-da41bd2f91cd
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ì–²âô1J$3f1c300b-46ba-4268-a815-aa14f8c94635
+m	java:S106'"+Replace this use of System.out by a logger.(ÿ¹„ 8í–²âô1J$49d33809-999f-46d4-923d-17e3eb85edf7
+¡
+java:S2142,"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8î–²âô1J$c23f1607-f4ea-4c32-91b9-1ecc2f070552
+¡
+java:S2142<"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ğ–²âô1J$cc103c38-0183-4ce6-a864-65effcd54382
+r	java:S106:"+Replace this use of System.out by a logger.(ßßŒ¸ıÿÿÿÿ8ğ–²âô1J$0ab994c3-302f-4437-bb9b-8497beef674a
+Œ
+java:S1144%"DRemove this unused private "multiThreadCreationUsingStreams" method.(Ëº ’ıÿÿÿÿ8”×²âô1J$6a2f0402-d3aa-421e-a2e7-e3bb949dd269
+
+java:S11442"KRemove this unused private "multiThreadCreationUsingStreamsInOrder" method.(Ù·¥8ñ–²âô1J$365cfc54-92a5-465d-8ac7-0c12d5f89592

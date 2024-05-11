@@ -1,0 +1,35 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(°ÚÓ×ùÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(°ÚÓ×ùÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ºŸþå
+E
+java:S3740"/Provide the parametrized type for this generic.(ºŸþå
+J
+java:S3740"/Provide the parametrized type for this generic.(°ÎÕ±úÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(°ÎÕ±úÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ß¢
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(°ÚÓ×ùÿÿÿÿ
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ºŸþå
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(°ÎÕ±úÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "v2".(°ÎÕ±úÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "v1".(ºŸþå
+=
+java:S1481"'Remove this unused "v1" local variable.(ºŸþå
+B
+java:S1481"'Remove this unused "v2" local variable.(°ÎÕ±úÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ìòµÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ä©‚šÿÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(Ä©‚šÿÿÿÿÿ
+@	java:S106""+Replace this use of System.out by a logger.(ïãø
+E	java:S106%"+Replace this use of System.out by a logger.(ãÖÿÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(«Ï£þÿÿÿÿ
+@	java:S106'"+Replace this use of System.out by a logger.(¶¯Ò¤

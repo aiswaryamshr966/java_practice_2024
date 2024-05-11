@@ -1,0 +1,17 @@
+
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8½ßÆˆö1J$19506f87-5775-46f8-9be3-2ebcccc7f5b0
+r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8¿ßÆˆö1J$b0ffff7c-7db4-48d5-8e57-b7eae9c23057
+r	java:S106"+Replace this use of System.out by a logger.(Óü¨Üøÿÿÿÿ8¿ßÆˆö1J$347ef4c7-c7d9-4a18-a980-b5aff39cac3c
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÁßÆˆö1J$385b31c9-a46c-42b3-a9c7-a0cc88375ba4
+r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8ÂßÆˆö1J$877ab705-ba24-4f2b-ae30-2b788a1f3fe5
+r	java:S106"+Replace this use of System.out by a logger.(Óü¨Üøÿÿÿÿ8ÃßÆˆö1J$6a3b3f85-2982-41ed-9b74-b9f84acca617
+¡
+java:S2142!"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÄßÆˆö1J$f7c68f26-9c3c-4bbc-8e1b-0db0bf79bae3
+r	java:S106""+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8ÅßÆˆö1J$f4e1defb-bd69-42e3-9bdb-64f9febee1bd
+r	java:S106$"+Replace this use of System.out by a logger.(Óü¨Üøÿÿÿÿ8ÅßÆˆö1J$4c619d0c-257a-408b-a6bc-0fd9ba062a3e
+m	java:S106("+Replace this use of System.out by a logger.(ÿÕòô8ÇßÆˆö1J$052657ad-ffae-4864-bc26-1b6356d6234c
+m	java:S106)"+Replace this use of System.out by a logger.(µèÂ8ÈßÆˆö1J$5369de1c-01ab-454b-8828-d41796e88cad
+m	java:S106*"+Replace this use of System.out by a logger.(¯©œÇ8ÉßÆˆö1J$e5fc0024-176f-4e37-bb5d-6532d1c159ab
+m	java:S106."+Replace this use of System.out by a logger.(«†º8ÊßÆˆö1J$07e8d099-e904-4789-b3d3-c7004a8b0d16
