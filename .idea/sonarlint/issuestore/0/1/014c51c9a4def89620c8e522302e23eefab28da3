@@ -1,11 +1,11 @@
 
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯êŸ„úÿÿÿÿ
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ı°Šşÿÿÿÿ
-o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆ¨Ÿ‹
-[
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ˆ¨Ÿ‹
-h
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÊØ¸
-:
-java:S1659"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
-@	java:S1065"+Replace this use of System.out by a logger.(£©Ş
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯êŸ„úÿÿÿÿJ$e43b0051-3fe3-4dbc-a888-9cfe5ad05d0a
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ı°ŠşÿÿÿÿJ$2473cb3f-9fab-4ab8-9634-c6976ac7284c
+•	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆ¨Ÿ‹J$f2375595-eff3-4f18-8482-41cdb4ea71c5
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ˆ¨Ÿ‹J$71914eb5-b244-4653-9c6a-5b694fd7ae7f
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÊØ¸J$beb653e8-a34c-4cc5-aeee-0bb3c5b7771c
+`
+java:S1659"Declare "j" on a separate line.(¦¢ÉëùÿÿÿÿJ$4e8c87f7-55d2-4fd9-ad77-98d7cdeece6a
+f	java:S106="+Replace this use of System.out by a logger.(£©ŞJ$423989ea-10b1-4a5a-8cf5-f33452ef6756

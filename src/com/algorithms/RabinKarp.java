@@ -1,5 +1,13 @@
 package com.algorithms;
-
+/*
+ * Rabin Karp Algorithm
+ *
+ * 1.The Rabin-Karp algorithm is a string matching algorithm that uses hashing to find occurrences of a pattern within a text.
+ * 2.It computes the hash value of the pattern and substrings of the text, comparing them to check for matches.
+ * 3.To handle potential collisions, it uses a rolling hash function that efficiently updates the hash value when sliding the window.
+ * 4.The algorithm has a time complexity of O(nm) in the worst case, but it can achieve an average-case time complexity of O(n + m) when using certain hash functions.
+ *
+*/
 public class RabinKarp {
 
     public final static int d = 256; //d is the number of characters in the input alphabet
