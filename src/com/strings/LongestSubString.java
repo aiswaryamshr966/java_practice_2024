@@ -1,13 +1,17 @@
 package com.strings;
 
 import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
 
 public class LongestSubString {
     public static void main(String[] args) {
 
         String s = "abcabcbb";
         int ans = lengthOfLongestSubstring(s);
+        int ans2 = lengthOfLongestSubstringOptimized(s);
         System.out.println(ans);
+        System.out.println(ans2);
     }
 
     private static int lengthOfLongestSubstring(String s) {
@@ -28,5 +32,23 @@ public class LongestSubString {
             right++;
         }
         return maxlen;
+    }
+
+    private static int lengthOfLongestSubstringOptimized(String s) {
+        int length = s.length();
+        int maxLength = 0;
+        int left = 0;
+
+        Set<Character> characterSet = new HashSet<>();
+
+        for(int right=0;right<length;right++){
+            while(characterSet.contains(s.charAt(right))){
+                characterSet.remove(s.charAt(left)); // Remove the character from the set
+                left++; // Move the left pointer to the next position
+            }
+            characterSet.add(s.charAt(right)); // Add the current character to the set
+            maxLength = Math.max(maxLength, right-left+1); // Update the maximum length
+        }
+        return maxLength;
     }
 }

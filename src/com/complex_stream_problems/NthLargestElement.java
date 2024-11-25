@@ -1,7 +1,7 @@
 package com.complex_stream_problems;
 
 import java.util.Arrays;
-import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 public class NthLargestElement {
@@ -10,13 +10,16 @@ public class NthLargestElement {
         int nthSmallest = findNthSmallest(numbers, 3);
         int nthLargest = findNthLargest(numbers, 2);
 
+        int largest = numbers.stream().max(Comparator.naturalOrder()).get();
+        int smallest = numbers.stream().min(Comparator.naturalOrder()).get();
+
         System.out.println("Nth Smallest Element: " + nthSmallest);
         System.out.println("Nth Largest Element: " + nthLargest);
     }
 
     private static int findNthLargest(List<Integer> numbers, int i) {
         return numbers.stream()
-                .sorted((a, b) -> Integer.compare(b, a))
+                .sorted(Comparator.reverseOrder())
                 .skip(i-1)
                 .findFirst()
                 .orElseThrow(() -> new IllegalArgumentException("List is too short"));

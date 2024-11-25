@@ -1,6 +1,7 @@
 package com.strings;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class AnagramList {
     /*
@@ -11,8 +12,14 @@ public class AnagramList {
      */
     public static void main(String[] args) {
         String[] array = {"cat", "dog", "tac", "god", "act"};
-        Map<String, List<String>> anagramMap = new HashMap<>();
 
+        findCommonAnagramUsingNonStreamApi(array);
+        findAnagramGroupsUsingStreamApi(array);
+
+    }
+
+    public static void findCommonAnagramUsingNonStreamApi(String[] array) {
+        Map<String, List<String>> anagramMap = new HashMap<>();
         // Step 1: Group words with the same sorted letters
         for (String word : array) {
             char[] chars = word.toCharArray();
@@ -34,6 +41,23 @@ public class AnagramList {
                 anagramGroups.add(anagramsList);
             }
         }
+
+        System.out.println(anagramGroups);
+    }
+
+    public static void findAnagramGroupsUsingStreamApi(String[] strings) {
+        List<List<String>> anagramGroups = Arrays.stream(strings)
+                .collect(Collectors.groupingBy(
+                        word -> {
+                            char[] chars = word.toCharArray();
+                            Arrays.sort(chars);
+                            return new String(chars);
+                        }
+                ))
+                .values()
+                .stream()
+                .filter(group -> group.size() > 1)
+                .collect(Collectors.toList());
 
         System.out.println(anagramGroups);
     }
