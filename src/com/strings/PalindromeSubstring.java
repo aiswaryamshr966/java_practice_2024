@@ -5,7 +5,7 @@ public class PalindromeSubstring {
         String s = "01234567898765";
 
         String longestPalidrome = findLongestPalindrome(s);
-        System.out.println("Longest com.generalcodes.Palindrome Substring: "+longestPalidrome);
+        System.out.println("Longest Palindrome Substring: "+longestPalidrome);
     }
 
     private static String findLongestPalindrome(String s) {

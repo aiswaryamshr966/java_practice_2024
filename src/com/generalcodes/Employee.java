@@ -3,6 +3,7 @@ package com.generalcodes;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class Employee {
     String id;
@@ -52,5 +53,20 @@ public class Employee {
                 .map(Employee::getName)
                 .toList()
                 .forEach(System.out::println);
+
+        System.out.println();
+
+        empList.stream()
+                .map(Employee::getName)
+                .filter(name -> !name.startsWith("A"))
+                .forEach(e->System.out.print(e+" "));
+
+        System.out.println();
+
+        empList.stream()
+                .collect(Collectors.groupingBy(emp -> (emp.getAge() >= 20 && emp.getAge() <= 25) ? "20-30" : "Other"))
+                .entrySet()
+                .stream()
+                .forEach(e->e.getValue().forEach(employee->System.out.println(employee.getName())));
     }
 }
